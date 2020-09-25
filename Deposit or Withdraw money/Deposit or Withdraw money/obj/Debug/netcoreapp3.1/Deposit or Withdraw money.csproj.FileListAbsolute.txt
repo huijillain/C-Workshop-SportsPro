@@ -1,0 +1,15 @@
+C:\Users\mabservi\source\repos\Deposit or Withdraw money\Deposit or Withdraw money\bin\Debug\netcoreapp3.1\Deposit or Withdraw money.exe
+C:\Users\mabservi\source\repos\Deposit or Withdraw money\Deposit or Withdraw money\bin\Debug\netcoreapp3.1\Deposit or Withdraw money.deps.json
+C:\Users\mabservi\source\repos\Deposit or Withdraw money\Deposit or Withdraw money\bin\Debug\netcoreapp3.1\Deposit or Withdraw money.runtimeconfig.json
+C:\Users\mabservi\source\repos\Deposit or Withdraw money\Deposit or Withdraw money\bin\Debug\netcoreapp3.1\Deposit or Withdraw money.runtimeconfig.dev.json
+C:\Users\mabservi\source\repos\Deposit or Withdraw money\Deposit or Withdraw money\bin\Debug\netcoreapp3.1\Deposit or Withdraw money.dll
+C:\Users\mabservi\source\repos\Deposit or Withdraw money\Deposit or Withdraw money\bin\Debug\netcoreapp3.1\Deposit or Withdraw money.pdb
+C:\Users\mabservi\source\repos\Deposit or Withdraw money\Deposit or Withdraw money\obj\Debug\netcoreapp3.1\Deposit or Withdraw money.csprojAssemblyReference.cache
+C:\Users\mabservi\source\repos\Deposit or Withdraw money\Deposit or Withdraw money\obj\Debug\netcoreapp3.1\Deposit_or_Withdraw_money.Form1.resources
+C:\Users\mabservi\source\repos\Deposit or Withdraw money\Deposit or Withdraw money\obj\Debug\netcoreapp3.1\Deposit or Withdraw money.csproj.GenerateResource.cache
+C:\Users\mabservi\source\repos\Deposit or Withdraw money\Deposit or Withdraw money\obj\Debug\netcoreapp3.1\Deposit or Withdraw money.AssemblyInfoInputs.cache
+C:\Users\mabservi\source\repos\Deposit or Withdraw money\Deposit or Withdraw money\obj\Debug\netcoreapp3.1\Deposit or Withdraw money.AssemblyInfo.cs
+C:\Users\mabservi\source\repos\Deposit or Withdraw money\Deposit or Withdraw money\obj\Debug\netcoreapp3.1\Deposit or Withdraw money.csproj.CoreCompileInputs.cache
+C:\Users\mabservi\source\repos\Deposit or Withdraw money\Deposit or Withdraw money\obj\Debug\netcoreapp3.1\Deposit or Withdraw money.dll
+C:\Users\mabservi\source\repos\Deposit or Withdraw money\Deposit or Withdraw money\obj\Debug\netcoreapp3.1\Deposit or Withdraw money.pdb
+C:\Users\mabservi\source\repos\Deposit or Withdraw money\Deposit or Withdraw money\obj\Debug\netcoreapp3.1\Deposit or Withdraw money.genruntimeconfig.cache
